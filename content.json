@@ -1,0 +1,35 @@
+{
+  "name": "Hope Charity",
+  "tagline": "ME + YOU WE CAN SAVE A LIFE",
+  "description": "Hope Charity is a community-focused charity working to bring hope, care and practical support to children and families in need.",
+  "giving": "+256 740 448 927",
+  "heroImage": "images/hope-activities.jpg",
+  "about": "We believe that when people come together, lives can change. Hope Charity supports children and communities through care, food support, practical help and opportunities for a better future.",
+  "programs": [
+    {
+      "title": "Children & Family Support",
+      "text": "Supporting vulnerable children and families with practical care and community assistance.",
+      "icon": "\u2764\ufe0f"
+    },
+    {
+      "title": "Food & Basic Needs",
+      "text": "Helping provide meals and essential support to children and families who need it.",
+      "icon": "\ud83c\udf72"
+    },
+    {
+      "title": "Community Care",
+      "text": "Working with people in the community to identify needs and create lasting hope.",
+      "icon": "\ud83e\udd1d"
+    }
+  ],
+  "contact": {
+    "phone": "+256 740 448 927",
+    "email": "",
+    "location": "Uganda",
+    "tiktok": "https://www.tiktok.com/@hope.charity256"
+  },
+  "photos": [
+    "images/hope-profile.jpg",
+    "images/hope-activities.jpg"
+  ]
+}
